@@ -1,0 +1,1 @@
+# task8_mall_customer_segmentation
